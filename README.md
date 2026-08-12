@@ -116,8 +116,9 @@ Visualizations created include:
 - The United States has the highest number of Netflix titles in this dataset. This is visible in the Top 10 Countries bar chart, although titles listed under multiple countries are counted as combined entries.
 - Movies form a larger share of Netflix content than TV Shows, as shown by the Movies vs TV Shows pie chart.
 - The release-year analysis shows that 2019 has the highest number of titles in the dataset.
-- TV-MA is the most common content rating, indicating that Netflix contains a substantial amount of content targeted at mature audiences.
 - Rajiv Chilaka appears as the director with the highest number of titles among non-missing director records, based on the Top 15 Directors chart.
+- Most Netflix movies have a duration of 80–120 minutes, suggesting that this length is the most common choice for viewers.
+- The sharp increase in Movies and TV Shows after 2016 shows that Netflix invested heavily in growing its content library.
 
 ---
 
@@ -128,7 +129,6 @@ Netflix-EDA/
 │
 ├── Netflix_EDA.ipynb
 ├── netflix_titles.csv
-├── README.md
 ```
 
 ---
