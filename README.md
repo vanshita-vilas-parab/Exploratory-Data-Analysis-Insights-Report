@@ -127,26 +127,6 @@ Netflix-EDA/
 
 ---
 
-# 🚀 How to Run
-
-1. Clone this repository.
-
-```bash
-git clone <repository-link>
-```
-
-2. Install the required libraries.
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-3. Open the Jupyter Notebook or Google Colab notebook. Import the dataset.
-
-4. Run all cells sequentially.
-
----
-
 # 📚 Learning Outcomes
 
 Through this project, I learned:
