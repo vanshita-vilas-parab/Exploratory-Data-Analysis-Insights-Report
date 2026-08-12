@@ -1,6 +1,12 @@
 # 🎬 Netflix Exploratory Data Analysis (EDA)
 
-Link: https://colab.research.google.com/drive/1VqHYkLG9rKNT8a2XeL4VcDsEct3SINxd?usp=sharing
+## 🔗 Project Resources
+
+- **Google Colab Notebook:**  
+  [https://colab.research.google.com/](https://colab.research.google.com/drive/1VqHYkLG9rKNT8a2XeL4VcDsEct3SINxd?usp=sharing)
+
+- **Dataset:**  
+   https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## 📌 Project Overview
 
